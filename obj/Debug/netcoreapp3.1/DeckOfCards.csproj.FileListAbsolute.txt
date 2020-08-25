@@ -1,0 +1,11 @@
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\deckofcards\bin\Debug\netcoreapp3.1\DeckOfCards.exe
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\deckofcards\bin\Debug\netcoreapp3.1\DeckOfCards.deps.json
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\deckofcards\bin\Debug\netcoreapp3.1\DeckOfCards.runtimeconfig.json
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\deckofcards\bin\Debug\netcoreapp3.1\DeckOfCards.runtimeconfig.dev.json
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\deckofcards\bin\Debug\netcoreapp3.1\DeckOfCards.dll
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\deckofcards\bin\Debug\netcoreapp3.1\DeckOfCards.pdb
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\deckofcards\obj\Debug\netcoreapp3.1\DeckOfCards.csprojAssemblyReference.cache
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\deckofcards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\deckofcards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfo.cs
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\deckofcards\obj\Debug\netcoreapp3.1\DeckOfCards.dll
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\deckofcards\obj\Debug\netcoreapp3.1\DeckOfCards.pdb
